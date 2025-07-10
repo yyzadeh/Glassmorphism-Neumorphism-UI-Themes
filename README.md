@@ -8,10 +8,10 @@ This repository showcases two modern UI design trends implemented in Android app
 ## 🖼️ Theme Previews
 
 ### Glassmorphism
-![Glassmorphism Preview](screenshots/glassmorphism.png)
+![Glassmorphism Preview](assets/first.png)
 
 ### Neumorphism
-![Neumorphism Preview](screenshots/neumorphism.png)
+![Neumorphism Preview](assets/secound.png)
 
 > ⚠️ Screenshots should be placed inside the `screenshots/` folder.
 
