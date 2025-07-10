@@ -7,13 +7,11 @@ This repository showcases two modern UI design trends implemented in Android app
 
 ## 🖼️ Theme Previews
 
-### Glassmorphism
-![Glassmorphism Preview](assets/first.png)
-
-### Neumorphism
-![Neumorphism Preview](assets/secound.png)
-
-> ⚠️ Screenshots should be placed inside the `screenshots/` folder.
+### Glassmorphism  & Neumorphism
+<p>
+  <img src="assets/first.png" width="400" height="802">
+  <img src="assets/secound.png" width="400" height="802">
+<p/>
 
 ---
 
@@ -33,9 +31,8 @@ This repository showcases two modern UI design trends implemented in Android app
 
 ## 🛠️ Tech Stack
 
-- Kotlin / Java
+- Kotlin
 - Android SDK (API 21+)
-- Jetpack Compose (optional)
 - Material Design 3
 
 ---
@@ -43,15 +40,13 @@ This repository showcases two modern UI design trends implemented in Android app
 ## 📂 Project Structure
 
 ```
-GlassAndNeumorphismThemes/
-├── glassmorphism_app/
+lib/
+├── assets/
 │   └── ... (source files)
-├── neumorphism_app/
+├── neumorphism
 │   └── ... (source files)
-├── screenshots/
-│   ├── glassmorphism.png
-│   └── neumorphism.png
-└── README.md
+├── glassmorphism
+   └── ... (source files)
 ```
 
 ---
@@ -69,26 +64,20 @@ cd GlassAndNeumorphismThemes
 ```
 
 ### Open in Android Studio
-- Open each theme's folder (`glassmorphism_app/` or `neumorphism_app/`) as a separate project if needed.
-
----
-
-## 📃 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+- Open each theme's file (`Glassmorphism.dart` or `Neumorphism.dart`) as a separate project if needed.
 
 ---
 
 ## 🙌 Author
 
-Designed & Developed by **[Your Name]**
+Designed & Developed by **Yousef Yousefian**
 
-Feel free to ⭐ the repo and follow for more UI concepts!
+Feel free to ⭐ the repo and follow for more concepts!
 
 ---
 
 ## 📬 Contact
 
 For collaborations or feedback:
-- Email: your.email@example.com
-- GitHub: [@your-username](https://github.com/your-username)
+- Email: yousef.yousefian.85@gmail.com
+- GitHub: [@yyzadeh](https://github.com/yyzadeh)
